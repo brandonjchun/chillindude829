@@ -1,9 +1,6 @@
 # Python program to demonstrate
 # main() function
   
-  
-print("Hello")
-  
 # Defining main function
 def main():
     print("hey there")
